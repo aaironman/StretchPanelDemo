@@ -7,7 +7,7 @@ Instruction
 ===========
 The layout that can stretch with animation.You can add the listener of the animation and deal with what you want.
 
-![](https://github.com/aaironman/StretchPanelDemo/raw/master/sreen1.png)&nsbp;![](https://github.com/aaironman/StretchPanelDemo/raw/master/screen2.png)
+![](https://github.com/aaironman/StretchPanelDemo/raw/master/sreen1.png)        ![](https://github.com/aaironman/StretchPanelDemo/raw/master/screen2.png)
 
 Usage
 =======
