@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StretchPanel">
+        <attr name="contentView" format="reference" />
+        <attr name="stretchView" format="reference" />
+    </declare-styleable>
+
+</resources>
